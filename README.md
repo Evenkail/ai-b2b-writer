@@ -1,1 +1,1 @@
-# ai-b2bwriter
+echo "# AI B2B Writer" > README.md
